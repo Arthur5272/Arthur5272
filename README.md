@@ -12,26 +12,26 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**Analista de Dados (Jr)** \
+[**Grupo Quinto Andar**](https://grupoquintoandar.com/pt/) • Trainee/Estagiário \
+Linguagens & Tecnologias: `Python`, `Django`, `Docker`\
+Projetos em destaque:
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Desenvolvedor Fullstack (Jr)** \
+[**EPTA Tecnologia**](https://eptasoftwares.com.br/v7/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Next`, `Nest`, `SQL`, `Docker`, `Postgres`, `HTML`, `CSS`, `TailWind`\
+Projetos em destaque: [Yavin](https://eptasoftwares.com.br/v7/yavin.html), [Kamino](https://eptasoftwares.com.br/v7/kamino.html)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/v2/D4D0BAQGqos08qGMCyA/company-logo_100_100/company-logo_100_100/0/1708431390644/andersonriosconsultoria_logo?e=1756944000&v=beta&t=wq4UoDqJntcpxeUM5czk2-uau93pmY5E6bK8ZgrzelM"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/v2/C4D0BAQHhRFOoqPLjKw/company-logo_100_100/company-logo_100_100/0/1675176469147?e=1756944000&v=beta&t=ojPd40XZIROl52whHHdMX66UrYsTT1Ot2WlVCCChruY"/>](https://nubank.com.br/)
 
-**Desenvolvedor Backend Junior** \
+**Desenvolvedor Backend (Jr)** \
 [**Anderson Rios Consultoria**](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Nest`, `Python` \
-Projetos em destaque: [App](https://nubank.com.br/)
+Projetos em destaque: [MARC]()
 <br/>
 <br/>
 
