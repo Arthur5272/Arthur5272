@@ -29,8 +29,8 @@ Projetos em destaque: [Ignite](), [Bootcamp]()
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/v2/D4D0BAQGqos08qGMCyA/company-logo_100_100/company-logo_100_100/0/1708431390644/andersonriosconsultoria_logo?e=1756944000&v=beta&t=wq4UoDqJntcpxeUM5czk2-uau93pmY5E6bK8ZgrzelM"/>](https://nubank.com.br/)
 
 **Desenvolvedor Backend Junior** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+[**Anderson Rios Consultoria**](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Nest`, `Python` \
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
