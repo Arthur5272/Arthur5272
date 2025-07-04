@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Arthur5272&show_icons=true&title_color=783c00&text_color=E0E6FF&icon_color=7546E6&bg_color=161829&cache_seconds=1300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Arthur5272&show_icons=true&title_color=7546E6&text_color=E0E6FF&icon_color=7546E6&bg_color=161829&cache_seconds=1300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Arthur!
 
