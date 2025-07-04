@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Arthur!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=161829&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando no Quinto Andar<br/> Eu sou desenvolvedor backend</p>
