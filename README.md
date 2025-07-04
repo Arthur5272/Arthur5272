@@ -22,7 +22,7 @@ Projetos em destaque:
 
 **Desenvolvedor Fullstack (Jr)** \
 [**EPTA Tecnologia**](https://eptasoftwares.com.br/v7/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Next`, `Nest`, `SQL`, `Docker`, `Postgres`, `HTML`, `CSS`, `TailWind`\
+Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Next`, `Nest`, `SQL`, `Docker`, `Postgres`, `TailWind`\
 Projetos em destaque: [Yavin](https://eptasoftwares.com.br/v7/yavin.html), [Kamino](https://eptasoftwares.com.br/v7/kamino.html)
 <br/>
 
