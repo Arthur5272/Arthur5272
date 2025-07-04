@@ -10,7 +10,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQHUCtTCGeeAxQ/company-logo_200_200/company-logo_200_200/0/1655840826254/quintoandar_com_br_logo?e=1756944000&v=beta&t=eEs5dNoEiEI8y5Em54T7ca879dOwxvRR7rb5A8Wi5bs"/>](https://media.licdn.com/dms/image/v2/C4D0BAQHUCtTCGeeAxQ/company-logo_200_200/company-logo_200_200/0/1655840826254/quintoandar_com_br_logo?e=1756944000&v=beta&t=eEs5dNoEiEI8y5Em54T7ca879dOwxvRR7rb5A8Wi5bs)
 
 **Analista de Dados (Jr)** \
 [**Grupo Quinto Andar**](https://grupoquintoandar.com/pt/) • Trainee/Estagiário \
