@@ -26,7 +26,7 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media.licdn.com/dms/image/v2/D4D0BAQGqos08qGMCyA/company-logo_100_100/company-logo_100_100/0/1708431390644/andersonriosconsultoria_logo?e=1756944000&v=beta&t=wq4UoDqJntcpxeUM5czk2-uau93pmY5E6bK8ZgrzelM"/>](https://nubank.com.br/)
 
 **Software Engineer** \
 [**Nubank**](https://nubank.com.br/) • Contract \
