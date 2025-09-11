@@ -18,7 +18,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `Docker`, `Java`\
 Projetos em destaque:
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/C4D0BAQHhRFOoqPLjKw/company-logo_100_100/company-logo_100_100/0/1675176469147?e=1756944000&v=beta&t=ojPd40XZIROl52whHHdMX66UrYsTT1Ot2WlVCCChruY"/>](https://eptasoftwares.com.br/v7/)
+[<img align="left" height="94px" width="94px" alt="EPTA Tecnologia" src="https://media.licdn.com/dms/image/v2/C4D0BAQHhRFOoqPLjKw/company-logo_200_200/company-logo_200_200/0/1675176469147?e=1760572800&v=beta&t=3wcmFcz3UQhCFgUZ_cfYHOuYJjaeRk2agJFg1Mndi1g"/>](https://eptasoftwares.com.br/v7/)
 
 **Desenvolvedor Fullstack (Jr)** \
 [**EPTA Tecnologia**](https://eptasoftwares.com.br/v7/) • Contract \
