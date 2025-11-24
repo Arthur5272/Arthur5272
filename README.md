@@ -10,7 +10,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Quinto Andar" src="https://media.licdn.com/dms/image/v2/C4D0BAQHUCtTCGeeAxQ/company-logo_200_200/company-logo_200_200/0/1655840826254/quintoandar_com_br_logo?e=1760572800&v=beta&t=0sBvYiUd1D3SZEjU4m9CES0SzZ2DuyzaC0vk48GgITQ"/>](https://grupoquintoandar.com/pt)
+[<img align="left" height="94px" width="94px" alt="Quinto Andar" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCT3oZCjZudZsL1QDVwZy_OA&psig=AOvVaw2beshTlsj63DiIU0-6S-94&ust=1764108240001000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiL4Lrli5EDFQAAAAAdAAAAABAE]"/>](https://grupoquintoandar.com/pt)
 
 **Data Engineering (Trainee)** \
 [**Grupo Quinto Andar**](https://grupoquintoandar.com/pt/) • Trainee/Estagiário \
