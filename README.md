@@ -26,7 +26,7 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Next`, `Nest`, `Docker`, 
 Projetos em destaque: [Yavin](https://eptasoftwares.com.br/v7/yavin.html), [Kamino](https://eptasoftwares.com.br/v7/kamino.html)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Anderson Rios Consultoria" src="./anderonriosconsultoria.jpg"/>](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all)
+[<img align="left" height="94px" width="94px" alt="Anderson Rios Consultoria" src="./andersonriosconsultoria.jpg"/>](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all)
 
 **Desenvolvedor Backend (Jr)** \
 [**Anderson Rios Consultoria**](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all) • Full-time \
