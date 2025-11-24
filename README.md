@@ -1,11 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Arthur5272&show_icons=true&title_color=3B5DE8&text_color=E0E6FF&icon_color=3B5DE8&bg_color=161829&cache_seconds=1300" alt="ilustração do status do github">
-
-<img 
-  align='right'
-  src="https://github-readme-stats-psi-weld-99.vercel.app/api?username=Arthur5272&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=neon" 
-  alt="ilustração do status do github" 
-/>
-
 ### Olá, meu nome é Arthur!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Arthur5272&color=3B5DE8&style=for-the-badge&logo=GitHub" alt="Static GitHub">
