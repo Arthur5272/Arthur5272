@@ -18,7 +18,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `Docker`, `Java`\
 Projetos em destaque:
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="EPTA Tecnologia" src="https://media.licdn.com/dms/image/v2/C4D0BAQHhRFOoqPLjKw/company-logo_200_200/company-logo_200_200/0/1675176469147?e=1760572800&v=beta&t=3wcmFcz3UQhCFgUZ_cfYHOuYJjaeRk2agJFg1Mndi1g"/>](https://eptasoftwares.com.br/v7/)
+[<img align="left" height="94px" width="94px" alt="EPTA Tecnologia" src="./epta.jpg"/>](https://eptasoftwares.com.br/v7/)
 
 **Desenvolvedor Fullstack (Jr)** \
 [**EPTA Tecnologia**](https://eptasoftwares.com.br/v7/) • Contract \
@@ -26,7 +26,7 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `Next`, `Nest`, `Docker`, 
 Projetos em destaque: [Yavin](https://eptasoftwares.com.br/v7/yavin.html), [Kamino](https://eptasoftwares.com.br/v7/kamino.html)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Anderson Rios Consultoria" src="https://media.licdn.com/dms/image/v2/D4D0BAQGqos08qGMCyA/company-logo_200_200/company-logo_200_200/0/1708431390644/andersonriosconsultoria_logo?e=1760572800&v=beta&t=ycQFWF1zfi1g687pC2wzwQtXtrOUO8klJ9x48tSRGgE"/>](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all)
+[<img align="left" height="94px" width="94px" alt="Anderson Rios Consultoria" src="./anderonriosconsultoria.jpg"/>](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all)
 
 **Desenvolvedor Backend (Jr)** \
 [**Anderson Rios Consultoria**](https://www.linkedin.com/company/andersonriosconsultoria/posts/?feedView=all) • Full-time \
